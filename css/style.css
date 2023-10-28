@@ -95,7 +95,9 @@ border-bottom: 1px #E7E9FC solid;
 .page-nav-list {
     display: flex;
     gap: 40px;
-    padding: 24px 0 24px;
+}
+.page-nav-item{
+padding: 24px 0;
 }
 .contacts-list{
     display: flex;
