@@ -68,7 +68,9 @@ list-style-type: none ;
 .container {
     width: 1158px;
     margin: 0 auto;
-    padding: 0 15px 0 15px;
+    /* padding: 0 15px 0 15px; */
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 
@@ -99,6 +101,10 @@ border-bottom: 1px #E7E9FC solid;
 .page-nav-item{
 padding: 24px 0;
 }
+.page-nav-link{
+    padding: 24px 0;
+}
+
 .contacts-list{
     display: flex;
     width: 344px;
