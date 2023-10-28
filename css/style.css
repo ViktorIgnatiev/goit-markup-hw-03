@@ -79,6 +79,7 @@ list-style-type: none ;
 
 .page-header{
 border-bottom: 1px #E7E9FC solid;
+padding: 24px 0 24px 0;
 }
 
 .header-container{
